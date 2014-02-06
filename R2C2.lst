@@ -1,0 +1,607 @@
+eeschema (2013-mar-13)-testing  >> Creation date: čet 09 maj 2013 02:17:13 CEST
+#Cmp ( order = Reference )
+| C1         100nF                           ; SM0603_Capa ;             
+| C2         100nF                           ; SM0603_Capa ;             
+| C3         100nF                           ; SM0603_Capa ;             
+| C4         100nF                           ; SM0603_Capa ;             
+| C5         100nF                           ; SM0603_Capa ;             
+| C6         100nF                           ; SM0603_Capa ;             
+| C7         1nF                             ; SM0603_Capa ;             
+| C8         10nF                            ; SM0603_Capa ;             
+| C9         10nF                            ; SM0603_Capa ;             
+| C10        1nF                             ; SM0603_Capa ;             
+| C11        47uF 6.3V   ~                   ; SM1210      ; ~           
+| C12        22pF                            ; SM0603_Capa ;             
+| C13        22pF                            ; SM0603_Capa ;             
+| C14        22pF                            ; SM0603_Capa ;             
+| C15        22pF                            ; SM0603_Capa ;             
+| C16        100nF                           ; SM0603_Capa ;             
+| C17        22pF                            ; SM0603_Capa ;             
+| C18        22pF                            ; SM0603_Capa ;             
+| C19        100nF       ~                   ; SM0603_Capa ; ~           
+| C20        100nF       ~                   ; SM0603_Capa ; ~           
+| C21        100nF                           ; SM0603_Capa ;             
+| C22        10uF 6.3V                       ; SM0805      ;             
+| C23        100nF                           ; SM0603_Capa ;             
+| C24        10uF 6.3V                       ; SM0805      ;             
+| C25        10uF 35V                        ; SM1206      ;             
+| C26        100nF                           ; SM0603_Capa ;             
+| C27        100nF                           ; SM0603_Capa ;             
+| C28        2200uF 35V                      ; CP_16x25mm  ;             
+| C29        2200uF 35V                      ; CP_16x25mm  ;             
+| C30        10uF 35V                        ; SM1206      ;             
+| C31        220pF                           ; SM0603_Capa ;             
+| C32        22nF                            ; SM0603_Capa ;             
+| C33        100uF 10V                       ; c_elec_6.3x5.3;             
+| C34        100uF 10V                       ; c_elec_6.3x5.3;             
+| C35        100nF                           ; SM0603_Capa ;             
+| C36        100nF                           ; SM0603_Capa ;             
+| C37        100nF                           ; SM0603_Capa ;             
+| C38        10uF 6.3V                       ; SM0805      ;             
+| C39        100nF                           ; SM0603_Capa ;             
+| C40        10uF 6.3V                       ; SM0805      ;             
+| C41        100nF                           ; SM0603_Capa ;             
+| C42        100nF                           ; SM0603_Capa ;             
+| C43        100nF                           ; SM0603_Capa ;             
+| C44        100uF 50V                       ; c_elec_8x10 ;             
+| C45        100nF                           ; SM0603_Capa ;             
+| C46        100nF                           ; SM0603_Capa ;             
+| C47        100nF                           ; SM0603_Capa ;             
+| C48        100uF 50V                       ; c_elec_8x10 ;             
+| C49        100nF                           ; SM0603_Capa ;             
+| C50        100nF                           ; SM0603_Capa ;             
+| C51        220nF                           ; SM0603_Capa ;             
+| C52        220nF                           ; SM0603_Capa ;             
+| C53        100nF                           ; SM0603_Capa ;             
+| C54        100nF                           ; SM0603_Capa ;             
+| C55        100nF                           ; SM0603_Capa ;             
+| C56        10uF 6.3V                       ; SM0805      ;             
+| C57        100nF                           ; SM0603_Capa ;             
+| C58        10uF 6.3V                       ; SM0805      ;             
+| C59        100nF                           ; SM0603_Capa ;             
+| C60        100nF                           ; SM0603_Capa ;             
+| C61        100nF                           ; SM0603_Capa ;             
+| C62        100uF 50V                       ; c_elec_8x10 ;             
+| C63        100nF                           ; SM0603_Capa ;             
+| C64        100nF                           ; SM0603_Capa ;             
+| C65        100nF                           ; SM0603_Capa ;             
+| C66        100uF 50V                       ; c_elec_8x10 ;             
+| C67        100nF                           ; SM0603_Capa ;             
+| C68        100nF                           ; SM0603_Capa ;             
+| C69        220nF                           ; SM0603_Capa ;             
+| C70        220nF                           ; SM0603_Capa ;             
+| C71        10nF                            ; SM0603_Capa ;             
+| C72        10nF                            ; SM0603_Capa ;             
+| C73        10nF                            ; SM0603_Capa ;             
+| CON1       BARREL_JACK                     ; SMPowerSocket;             
+| D1         12V                             ; SOD323(F)   ;             
+| D2         12V                             ; SOD323(F)   ;             
+| D3         60V@1.5A                        ; DO-214AA(SMB);             
+| D4         60V@1.5A                        ; DO-214AA(SMB);             
+| D5         Red                             ; LED-1206    ;             
+| D6         Red                             ; LED-1206    ;             
+| D7         30V@1A                          ; SOD323(F)   ;             
+| D8         30V@1A                          ; SOD323(F)   ;             
+| D9         60V@1.5A                        ; DO-214AA(SMB);             
+| D10        Orange                          ; LED-1206    ;             
+| D11        25V@2A                          ; SOD323(F)   ;             
+| D12        Red                             ; LED-1206    ;             
+| D13        Red                             ; LED-1206    ;             
+| D14        Red                             ; LED-1206    ;             
+| D15        Red                             ; LED-1206    ;             
+| D16        Green                           ; LED-1206    ;             
+| D17        Green                           ; LED-1206    ;             
+| D18        Green                           ; LED-1206    ;             
+| D19        DIODESCH                        ; SOD323(F)   ;             
+| D20        DIODESCH                        ; SOD323(F)   ;             
+| D21        DIODESCH                        ; SOD323(F)   ;             
+| D22        Blue        ~                   ; LED-1206    ; ~           
+| F1         3.15A                           ; SM0603      ;             
+| IC1        LPC1758                         ; LQFP80-SOT315;             
+| J1         USB                             ; USB_B_smd   ;             
+| J2         CTC1                            ; RAST5-4     ;             
+| J3         CTC2                            ; RAST5-4     ;             
+| J4         Ext Fan                         ; SIL-2       ;             
+| J5         Drv Fan                         ; SIL-2       ;             
+| J6         Temp                            ; SIL-3       ;             
+| J7         M_X                             ; RAST5-4     ;             
+| J8         M_Y                             ; RAST5-4     ;             
+| J9         HDR1X6H                         ; HDR1X6H     ;             
+| J10        HDR1X6H                         ; HDR1X6H     ;             
+| J11        M_Z                             ; RAST5-4     ;             
+| J12        M_E                             ; RAST5-4     ;             
+| J13        HDR1X6H                         ; HDR1X6H     ;             
+| J14        HDR1X6H                         ; HDR1X6H     ;             
+| J15        RJ11                            ; RJ11_6-4_smd;             
+| J16        RJ11                            ; RJ11_6-4_smd;             
+| J17        RJ11                            ; RJ11_6-4_smd;             
+| J18        HDR1X6H                         ; HDR1X6H     ;             
+| J19        HDR1X6H                         ; HDR1X6H     ;             
+| J20        JTAG                            ; VASCH10x2   ;             
+| J21        EXPANSION                       ; SIL-15      ;             
+| J22        EXPANSION                       ; SIL-15      ;             
+| L1         470R@100MHz                     ; SM0603      ;             
+| L2         470R@100MHz                     ; SM0603      ;             
+| L3         470R@100MHz                     ; SM0603      ;             
+| L4         470R@100MHz                     ; SM0603      ;             
+| L5         470R@100MHz                     ; SM0603      ;             
+| L6         470R@100MHz                     ; SM0603      ;             
+| L7         470R@100MHz                     ; SM0603      ;             
+| L8         470R@100MHz                     ; SM0603      ;             
+| L9         470R@100MHz                     ; SM0603      ;             
+| L10        470R@100MHz                     ; SM0603      ;             
+| L11        470R@100MHz                     ; SM0603      ;             
+| L12        470R@100MHz                     ; SM0603      ;             
+| L13        33uH 1.5Adc                     ; SDR1006     ;             
+| LS1        Buzzer                          ; BUZZER      ;             
+| P6         10k                             ; PVZ2A       ;             
+| P7         10k                             ; PVZ2A       ;             
+| P8         10k                             ; PVZ2A       ;             
+| P9         10k                             ; PVZ2A       ;             
+| Q1         P                               ; SOT23       ;             
+| Q2         N                               ; SOT323      ;             
+| Q3         P                               ; SOT23       ;             
+| Q4         P                               ; SOT23       ;             
+| Q5         N                               ; SOT323      ;             
+| Q6         N                               ; SOT1220     ;             
+| Q7         N                               ; SOT323      ;             
+| Q8         N                               ; SOT1220     ;             
+| Q9         N                               ; SOT323      ;             
+| Q10        N                               ; SOT323      ;             
+| Q11        N                               ; SOT323      ;             
+| Q12        N                               ; SOT323      ;             
+| Q13        N                               ; SOT323      ;             
+| R1         100R                            ; SM0603_Resistor;             
+| R2         100R                            ; SM0603_Resistor;             
+| R3         10k                             ; SM0603_Resistor;             
+| R4         10k                             ; SM0603_Resistor;             
+| R5         10k                             ; SM0603_Resistor;             
+| R6         10k                             ; SM0603_Resistor;             
+| R7         1k5                             ; SM0603_Resistor;             
+| R8         10k                             ; SM0603_Resistor;             
+| R9         1k5                             ; SM0603_Resistor;             
+| R10        1M                              ; SM0603_Resistor;             
+| R11        10k                             ; SM0603_Resistor;             
+| R12        1k5                             ; SM0603_Resistor;             
+| R13        1k5                             ; SM0603_Resistor;             
+| R14        10k                             ; SM0603_Resistor;             
+| R15        33R                             ; SM0603_Resistor;             
+| R16        100k        ~                   ; SM0603_Resistor; ~           
+| R17        100k        ~                   ; SM0603_Resistor; ~           
+| R18        1k5                             ; SM0603_Resistor;             
+| R19        33R                             ; SM0603_Resistor;             
+| R20        100k                            ; SM0603_Resistor;             
+| R21        1M                              ; SM0603_Resistor;             
+| R22        1k5                             ; SM0603_Resistor;             
+| R23        1k5                             ; SM0603_Resistor;             
+| R24        274R                            ; SM0603_Resistor;             
+| R25        274R                            ; SM0603_Resistor;             
+| R26        100k                            ; SM0603_Resistor;             
+| R27        100k                            ; SM0603_Resistor;             
+| R28        4k7                             ; SM0603_Resistor;             
+| R29        4k7                             ; SM0603_Resistor;             
+| R30        100R                            ; SM0603_Resistor;             
+| R31        100R                            ; SM0603_Resistor;             
+| R32        100R                            ; SM0603_Resistor;             
+| R33        100R                            ; SM0603_Resistor;             
+| R34        10k                             ; SM0603_Resistor;             
+| R35        10k                             ; SM0603_Resistor;             
+| R36        10k                             ; SM0603_Resistor;             
+| R37        10k                             ; SM0603_Resistor;             
+| R38        6k8 1%                          ; SM0603_Resistor;             
+| R39        100R                            ; SM0603_Resistor;             
+| R40        10k                             ; SM0603_Resistor;             
+| R41        10k                             ; SM0603_Resistor;             
+| R42        6k8 1%                          ; SM0603_Resistor;             
+| R43        680R                            ; SM0603_Resistor;             
+| R44        2k2 1%                          ; SM0603_Resistor;             
+| R45        4k7                             ; SM0603_Resistor;             
+| R46        10k                             ; SM0603_Resistor;             
+| R47        10k                             ; SM0603_Resistor;             
+| R48        10k                             ; SM0603_Resistor;             
+| R49        10k                             ; SM0603_Resistor;             
+| R50        10k                             ; SM0603_Resistor;             
+| R51        10k                             ; SM0603_Resistor;             
+| R52        10k                             ; SM0603_Resistor;             
+| R53        10k                             ; SM0603_Resistor;             
+| R54        274R                            ; SM0603_Resistor;             
+| R55        274R                            ; SM0603_Resistor;             
+| R56        39k                             ; SM0603_Resistor;             
+| R57        39k                             ; SM0603_Resistor;             
+| R58        100k                            ; SM0603_Resistor;             
+| R59        100k                            ; SM0603_Resistor;             
+| R60        100k                            ; SM0603_Resistor;             
+| R61        100k                            ; SM0603_Resistor;             
+| R62        0R047                           ; SM1206      ;             
+| R63        0R047                           ; SM1206      ;             
+| R64        0R047                           ; SM1206      ;             
+| R65        0R047                           ; SM1206      ;             
+| R66        10k                             ; SM0603_Resistor;             
+| R67        10k                             ; SM0603_Resistor;             
+| R68        10k                             ; SM0603_Resistor;             
+| R69        10k                             ; SM0603_Resistor;             
+| R70        10k                             ; SM0603_Resistor;             
+| R71        10k                             ; SM0603_Resistor;             
+| R72        10k                             ; SM0603_Resistor;             
+| R73        10k                             ; SM0603_Resistor;             
+| R74        10k                             ; SM0603_Resistor;             
+| R75        10k                             ; SM0603_Resistor;             
+| R76        274R                            ; SM0603_Resistor;             
+| R77        274R                            ; SM0603_Resistor;             
+| R78        39k                             ; SM0603_Resistor;             
+| R79        39k                             ; SM0603_Resistor;             
+| R80        100k                            ; SM0603_Resistor;             
+| R81        100k                            ; SM0603_Resistor;             
+| R82        100k                            ; SM0603_Resistor;             
+| R83        100k                            ; SM0603_Resistor;             
+| R84        0R047                           ; SM1206      ;             
+| R85        0R047                           ; SM1206      ;             
+| R86        0R047                           ; SM1206      ;             
+| R87        0R047                           ; SM1206      ;             
+| R88        10k                             ; SM0603_Resistor;             
+| R89        10k                             ; SM0603_Resistor;             
+| R90        6k8                             ; SM0805      ;             
+| R91        6k8                             ; SM0805      ;             
+| R92        6k8                             ; SM0805      ;             
+| R93        6k8                             ; SM0805      ;             
+| R94        6k8                             ; SM0805      ;             
+| R95        6k8                             ; SM0805      ;             
+| R96        6k8                             ; SM0805      ;             
+| R97        6k8                             ; SM0805      ;             
+| R98        6k8                             ; SM0805      ;             
+| R99        6k8                             ; SM0805      ;             
+| R100       6k8                             ; SM0805      ;             
+| R101       6k8                             ; SM0805      ;             
+| R102       6k8                             ; SM0805      ;             
+| R103       6k8                             ; SM0805      ;             
+| R104       6k8                             ; SM0805      ;             
+| R105       6k8                             ; SM0805      ;             
+| R106       10k                             ; SM0603_Resistor;             
+| R107       274R                            ; SM0603_Resistor;             
+| R108       10k                             ; SM0603_Resistor;             
+| R109       274R                            ; SM0603_Resistor;             
+| R110       10k                             ; SM0603_Resistor;             
+| R111       274R                            ; SM0603_Resistor;             
+| R112       680R        ~                   ; SM0603_Resistor; ~           
+| S1         SW          ~                   ; SW_SMD      ; ~           
+| S2         SW          ~                   ; SW_SMD      ; ~           
+| U1         CONN_MICROSD                    ; SDCARD-DM3D-SF;             
+| U2         1117                            ; SOT223      ;             
+| U3         L5970D                          ; SO8E        ;             
+| U4         A4988                           ; QFN28       ;             
+| U5         A4988                           ; QFN28       ;             
+| U6         A4988                           ; QFN28       ;             
+| U7         A4988                           ; QFN28       ;             
+| X1         32.768kHz                       ; Q_AB26TR    ;             
+| X2         12MHz                           ; Q_HC-49_SM  ;             
+#End Cmp
+
+#Cmp ( order = Value )
+| 22pF         C12       ; SM0603_Capa ;             
+| 22pF         C13       ; SM0603_Capa ;             
+| 22pF         C14       ; SM0603_Capa ;             
+| 22pF         C15       ; SM0603_Capa ;             
+| 22pF         C17       ; SM0603_Capa ;             
+| 22pF         C18       ; SM0603_Capa ;             
+| 220pF        C31       ; SM0603_Capa ;             
+| 1nF          C7        ; SM0603_Capa ;             
+| 1nF          C10       ; SM0603_Capa ;             
+| 10nF         C8        ; SM0603_Capa ;             
+| 10nF         C9        ; SM0603_Capa ;             
+| 10nF         C71       ; SM0603_Capa ;             
+| 10nF         C72       ; SM0603_Capa ;             
+| 10nF         C73       ; SM0603_Capa ;             
+| 22nF         C32       ; SM0603_Capa ;             
+| 100nF        C1        ; SM0603_Capa ;             
+| 100nF        C2        ; SM0603_Capa ;             
+| 100nF        C3        ; SM0603_Capa ;             
+| 100nF        C4        ; SM0603_Capa ;             
+| 100nF        C5        ; SM0603_Capa ;             
+| 100nF        C6        ; SM0603_Capa ;             
+| 100nF        C16       ; SM0603_Capa ;             
+| 100nF        C19       ; SM0603_Capa ; ~           
+| 100nF        C20       ; SM0603_Capa ; ~           
+| 100nF        C21       ; SM0603_Capa ;             
+| 100nF        C23       ; SM0603_Capa ;             
+| 100nF        C26       ; SM0603_Capa ;             
+| 100nF        C27       ; SM0603_Capa ;             
+| 100nF        C35       ; SM0603_Capa ;             
+| 100nF        C36       ; SM0603_Capa ;             
+| 100nF        C37       ; SM0603_Capa ;             
+| 100nF        C39       ; SM0603_Capa ;             
+| 100nF        C41       ; SM0603_Capa ;             
+| 100nF        C42       ; SM0603_Capa ;             
+| 100nF        C43       ; SM0603_Capa ;             
+| 100nF        C45       ; SM0603_Capa ;             
+| 100nF        C46       ; SM0603_Capa ;             
+| 100nF        C47       ; SM0603_Capa ;             
+| 100nF        C49       ; SM0603_Capa ;             
+| 100nF        C50       ; SM0603_Capa ;             
+| 100nF        C53       ; SM0603_Capa ;             
+| 100nF        C54       ; SM0603_Capa ;             
+| 100nF        C55       ; SM0603_Capa ;             
+| 100nF        C57       ; SM0603_Capa ;             
+| 100nF        C59       ; SM0603_Capa ;             
+| 100nF        C60       ; SM0603_Capa ;             
+| 100nF        C61       ; SM0603_Capa ;             
+| 100nF        C63       ; SM0603_Capa ;             
+| 100nF        C64       ; SM0603_Capa ;             
+| 100nF        C65       ; SM0603_Capa ;             
+| 100nF        C67       ; SM0603_Capa ;             
+| 100nF        C68       ; SM0603_Capa ;             
+| 220nF        C51       ; SM0603_Capa ;             
+| 220nF        C52       ; SM0603_Capa ;             
+| 220nF        C69       ; SM0603_Capa ;             
+| 220nF        C70       ; SM0603_Capa ;             
+| 10uF 6.3V    C22       ; SM0805      ;             
+| 10uF 6.3V    C24       ; SM0805      ;             
+| 10uF 6.3V    C38       ; SM0805      ;             
+| 10uF 6.3V    C40       ; SM0805      ;             
+| 10uF 6.3V    C56       ; SM0805      ;             
+| 10uF 6.3V    C58       ; SM0805      ;             
+| 10uF 35V     C25       ; SM1206      ;             
+| 10uF 35V     C30       ; SM1206      ;             
+| 47uF 6.3V    C11       ; SM1210      ; ~           
+| 100uF 10V    C33       ; c_elec_6.3x5.3;             
+| 100uF 10V    C34       ; c_elec_6.3x5.3;             
+| 100uF 50V    C44       ; c_elec_8x10 ;             
+| 100uF 50V    C48       ; c_elec_8x10 ;             
+| 100uF 50V    C62       ; c_elec_8x10 ;             
+| 100uF 50V    C66       ; c_elec_8x10 ;             
+| 2200uF 35V   C28       ; CP_16x25mm  ;             
+| 2200uF 35V   C29       ; CP_16x25mm  ;             
+| BARREL_JACK  CON1      ; SMPowerSocket;             
+| 60V@1.5A     D3        ; DO-214AA(SMB);             
+| 60V@1.5A     D4        ; DO-214AA(SMB);             
+| 60V@1.5A     D9        ; DO-214AA(SMB);             
+| Red          D5        ; LED-1206    ;             
+| Red          D6        ; LED-1206    ;             
+| Orange       D10       ; LED-1206    ;             
+| Red          D12       ; LED-1206    ;             
+| Red          D13       ; LED-1206    ;             
+| Red          D14       ; LED-1206    ;             
+| Red          D15       ; LED-1206    ;             
+| Green        D16       ; LED-1206    ;             
+| Green        D17       ; LED-1206    ;             
+| Green        D18       ; LED-1206    ;             
+| Blue         D22       ; LED-1206    ; ~           
+| 12V          D1        ; SOD323(F)   ;             
+| 12V          D2        ; SOD323(F)   ;             
+| 30V@1A       D7        ; SOD323(F)   ;             
+| 30V@1A       D8        ; SOD323(F)   ;             
+| 25V@2A       D11       ; SOD323(F)   ;             
+| DIODESCH     D19       ; SOD323(F)   ;             
+| DIODESCH     D20       ; SOD323(F)   ;             
+| DIODESCH     D21       ; SOD323(F)   ;             
+| 3.15A        F1        ; SM0603      ;             
+| LPC1758      IC1       ; LQFP80-SOT315;             
+| HDR1X6H      J9        ; HDR1X6H     ;             
+| HDR1X6H      J10       ; HDR1X6H     ;             
+| HDR1X6H      J13       ; HDR1X6H     ;             
+| HDR1X6H      J14       ; HDR1X6H     ;             
+| HDR1X6H      J18       ; HDR1X6H     ;             
+| HDR1X6H      J19       ; HDR1X6H     ;             
+| CTC1         J2        ; RAST5-4     ;             
+| CTC2         J3        ; RAST5-4     ;             
+| M_X          J7        ; RAST5-4     ;             
+| M_Y          J8        ; RAST5-4     ;             
+| M_Z          J11       ; RAST5-4     ;             
+| M_E          J12       ; RAST5-4     ;             
+| RJ11         J15       ; RJ11_6-4_smd;             
+| RJ11         J16       ; RJ11_6-4_smd;             
+| RJ11         J17       ; RJ11_6-4_smd;             
+| EXPANSION    J21       ; SIL-15      ;             
+| EXPANSION    J22       ; SIL-15      ;             
+| Ext Fan      J4        ; SIL-2       ;             
+| Drv Fan      J5        ; SIL-2       ;             
+| Temp         J6        ; SIL-3       ;             
+| USB          J1        ; USB_B_smd   ;             
+| JTAG         J20       ; VASCH10x2   ;             
+| 33uH 1.5Adc  L13       ; SDR1006     ;             
+| 470R@100MHz  L1        ; SM0603      ;             
+| 470R@100MHz  L2        ; SM0603      ;             
+| 470R@100MHz  L3        ; SM0603      ;             
+| 470R@100MHz  L4        ; SM0603      ;             
+| 470R@100MHz  L5        ; SM0603      ;             
+| 470R@100MHz  L6        ; SM0603      ;             
+| 470R@100MHz  L7        ; SM0603      ;             
+| 470R@100MHz  L8        ; SM0603      ;             
+| 470R@100MHz  L9        ; SM0603      ;             
+| 470R@100MHz  L10       ; SM0603      ;             
+| 470R@100MHz  L11       ; SM0603      ;             
+| 470R@100MHz  L12       ; SM0603      ;             
+| Buzzer       LS1       ; BUZZER      ;             
+| 10k          P6        ; PVZ2A       ;             
+| 10k          P7        ; PVZ2A       ;             
+| 10k          P8        ; PVZ2A       ;             
+| 10k          P9        ; PVZ2A       ;             
+| N            Q6        ; SOT1220     ;             
+| N            Q8        ; SOT1220     ;             
+| P            Q1        ; SOT23       ;             
+| P            Q3        ; SOT23       ;             
+| P            Q4        ; SOT23       ;             
+| N            Q2        ; SOT323      ;             
+| N            Q5        ; SOT323      ;             
+| N            Q7        ; SOT323      ;             
+| N            Q9        ; SOT323      ;             
+| N            Q10       ; SOT323      ;             
+| N            Q11       ; SOT323      ;             
+| N            Q12       ; SOT323      ;             
+| N            Q13       ; SOT323      ;             
+| 0R047        R62       ; SM1206      ;             
+| 0R047        R63       ; SM1206      ;             
+| 0R047        R64       ; SM1206      ;             
+| 0R047        R65       ; SM1206      ;             
+| 0R047        R84       ; SM1206      ;             
+| 0R047        R85       ; SM1206      ;             
+| 0R047        R86       ; SM1206      ;             
+| 0R047        R87       ; SM1206      ;             
+| 33R          R15       ; SM0603_Resistor;             
+| 33R          R19       ; SM0603_Resistor;             
+| 100R         R1        ; SM0603_Resistor;             
+| 100R         R2        ; SM0603_Resistor;             
+| 100R         R30       ; SM0603_Resistor;             
+| 100R         R31       ; SM0603_Resistor;             
+| 100R         R32       ; SM0603_Resistor;             
+| 100R         R33       ; SM0603_Resistor;             
+| 100R         R39       ; SM0603_Resistor;             
+| 274R         R24       ; SM0603_Resistor;             
+| 274R         R25       ; SM0603_Resistor;             
+| 274R         R54       ; SM0603_Resistor;             
+| 274R         R55       ; SM0603_Resistor;             
+| 274R         R76       ; SM0603_Resistor;             
+| 274R         R77       ; SM0603_Resistor;             
+| 274R         R107      ; SM0603_Resistor;             
+| 274R         R109      ; SM0603_Resistor;             
+| 274R         R111      ; SM0603_Resistor;             
+| 680R         R43       ; SM0603_Resistor;             
+| 680R         R112      ; SM0603_Resistor; ~           
+| 1k5          R7        ; SM0603_Resistor;             
+| 1k5          R9        ; SM0603_Resistor;             
+| 1k5          R12       ; SM0603_Resistor;             
+| 1k5          R13       ; SM0603_Resistor;             
+| 1k5          R18       ; SM0603_Resistor;             
+| 1k5          R22       ; SM0603_Resistor;             
+| 1k5          R23       ; SM0603_Resistor;             
+| 2k2 1%       R44       ; SM0603_Resistor;             
+| 4k7          R28       ; SM0603_Resistor;             
+| 4k7          R29       ; SM0603_Resistor;             
+| 4k7          R45       ; SM0603_Resistor;             
+| 6k8 1%       R38       ; SM0603_Resistor;             
+| 6k8 1%       R42       ; SM0603_Resistor;             
+| 6k8          R90       ; SM0805      ;             
+| 6k8          R91       ; SM0805      ;             
+| 6k8          R92       ; SM0805      ;             
+| 6k8          R93       ; SM0805      ;             
+| 6k8          R94       ; SM0805      ;             
+| 6k8          R95       ; SM0805      ;             
+| 6k8          R96       ; SM0805      ;             
+| 6k8          R97       ; SM0805      ;             
+| 6k8          R98       ; SM0805      ;             
+| 6k8          R99       ; SM0805      ;             
+| 6k8          R100      ; SM0805      ;             
+| 6k8          R101      ; SM0805      ;             
+| 6k8          R102      ; SM0805      ;             
+| 6k8          R103      ; SM0805      ;             
+| 6k8          R104      ; SM0805      ;             
+| 6k8          R105      ; SM0805      ;             
+| 10k          R3        ; SM0603_Resistor;             
+| 10k          R4        ; SM0603_Resistor;             
+| 10k          R5        ; SM0603_Resistor;             
+| 10k          R6        ; SM0603_Resistor;             
+| 10k          R8        ; SM0603_Resistor;             
+| 10k          R11       ; SM0603_Resistor;             
+| 10k          R14       ; SM0603_Resistor;             
+| 10k          R34       ; SM0603_Resistor;             
+| 10k          R35       ; SM0603_Resistor;             
+| 10k          R36       ; SM0603_Resistor;             
+| 10k          R37       ; SM0603_Resistor;             
+| 10k          R40       ; SM0603_Resistor;             
+| 10k          R41       ; SM0603_Resistor;             
+| 10k          R46       ; SM0603_Resistor;             
+| 10k          R47       ; SM0603_Resistor;             
+| 10k          R48       ; SM0603_Resistor;             
+| 10k          R49       ; SM0603_Resistor;             
+| 10k          R50       ; SM0603_Resistor;             
+| 10k          R51       ; SM0603_Resistor;             
+| 10k          R52       ; SM0603_Resistor;             
+| 10k          R53       ; SM0603_Resistor;             
+| 10k          R66       ; SM0603_Resistor;             
+| 10k          R67       ; SM0603_Resistor;             
+| 10k          R68       ; SM0603_Resistor;             
+| 10k          R69       ; SM0603_Resistor;             
+| 10k          R70       ; SM0603_Resistor;             
+| 10k          R71       ; SM0603_Resistor;             
+| 10k          R72       ; SM0603_Resistor;             
+| 10k          R73       ; SM0603_Resistor;             
+| 10k          R74       ; SM0603_Resistor;             
+| 10k          R75       ; SM0603_Resistor;             
+| 10k          R88       ; SM0603_Resistor;             
+| 10k          R89       ; SM0603_Resistor;             
+| 10k          R106      ; SM0603_Resistor;             
+| 10k          R108      ; SM0603_Resistor;             
+| 10k          R110      ; SM0603_Resistor;             
+| 39k          R56       ; SM0603_Resistor;             
+| 39k          R57       ; SM0603_Resistor;             
+| 39k          R78       ; SM0603_Resistor;             
+| 39k          R79       ; SM0603_Resistor;             
+| 100k         R16       ; SM0603_Resistor; ~           
+| 100k         R17       ; SM0603_Resistor; ~           
+| 100k         R20       ; SM0603_Resistor;             
+| 100k         R26       ; SM0603_Resistor;             
+| 100k         R27       ; SM0603_Resistor;             
+| 100k         R58       ; SM0603_Resistor;             
+| 100k         R59       ; SM0603_Resistor;             
+| 100k         R60       ; SM0603_Resistor;             
+| 100k         R61       ; SM0603_Resistor;             
+| 100k         R80       ; SM0603_Resistor;             
+| 100k         R81       ; SM0603_Resistor;             
+| 100k         R82       ; SM0603_Resistor;             
+| 100k         R83       ; SM0603_Resistor;             
+| 1M           R10       ; SM0603_Resistor;             
+| 1M           R21       ; SM0603_Resistor;             
+| SW           S1        ; SW_SMD      ; ~           
+| SW           S2        ; SW_SMD      ; ~           
+| 1117         U2        ; SOT223      ;             
+| A4988        U4        ; QFN28       ;             
+| A4988        U5        ; QFN28       ;             
+| A4988        U6        ; QFN28       ;             
+| A4988        U7        ; QFN28       ;             
+| CONN_MICROSD U1        ; SDCARD-DM3D-SF;             
+| L5970D       U3        ; SO8E        ;             
+| 32.768kHz    X1        ; Q_AB26TR    ;             
+| 12MHz        X2        ; Q_HC-49_SM  ;             
+#Konec elementov
+
+#Global, Hierarchical Labels and PinSheets ( order = Alphab. ) count = 47
+
+> CTC1_Heat                    Hierarchical        Loc /Processing core/(X=33,020 mm, Y=93,980 mm)
+> CTC1_Heat                    Global              Loc /Temperature regulation/(X=54,610 mm, Y=55,880 mm)
+> CTC1_Temp                    Hierarchical        Loc /Processing core/(X=33,020 mm, Y=38,100 mm)
+> CTC1_Temp                    Global              Loc /Temperature regulation/(X=29,210 mm, Y=38,100 mm)
+> CTC2_Heat                    Hierarchical        Loc /Processing core/(X=33,020 mm, Y=96,520 mm)
+> CTC2_Heat                    Global              Loc /Temperature regulation/(X=196,850 mm, Y=55,880 mm)
+> CTC2_Temp                    Hierarchical        Loc /Processing core/(X=33,020 mm, Y=40,640 mm)
+> CTC2_Temp                    Global              Loc /Temperature regulation/(X=171,450 mm, Y=38,100 mm)
+> ME_DIR                       Hierarchical        Loc /Processing core/(X=33,020 mm, Y=55,880 mm)
+> ME_DIR                       Global              Loc /Motor drivers/(X=170,180 mm, Y=124,460 mm)
+> ME_EN                        Hierarchical        Loc /Processing core/(X=33,020 mm, Y=109,220 mm)
+> ME_EN                        Global              Loc /Motor drivers/(X=170,180 mm, Y=116,840 mm)
+> ME_STEP                      Hierarchical        Loc /Processing core/(X=33,020 mm, Y=53,340 mm)
+> ME_STEP                      Global              Loc /Motor drivers/(X=170,180 mm, Y=127,000 mm)
+> Mn_RST                       Hierarchical        Loc /Processing core/(X=33,020 mm, Y=68,580 mm)
+> Mn_RST                       Global              Loc /Motor drivers/(X=170,180 mm, Y=38,100 mm)
+> Mn_RST                       Global              Loc /Motor drivers/(X=27,940 mm, Y=119,380 mm)
+> Mn_RST                       Global              Loc /Motor drivers/(X=27,940 mm, Y=38,100 mm)
+> Mn_RST                       Global              Loc /Motor drivers/(X=170,180 mm, Y=119,380 mm)
+> MX_DIR                       Hierarchical        Loc /Processing core/(X=149,860 mm, Y=63,500 mm)
+> MX_DIR                       Global              Loc /Motor drivers/(X=27,940 mm, Y=43,180 mm)
+> MX_EN                        Hierarchical        Loc /Processing core/(X=149,860 mm, Y=66,040 mm)
+> MX_EN                        Global              Loc /Motor drivers/(X=27,940 mm, Y=35,560 mm)
+> MX_STEP                      Hierarchical        Loc /Processing core/(X=149,860 mm, Y=58,420 mm)
+> MX_STEP                      Global              Loc /Motor drivers/(X=27,940 mm, Y=45,720 mm)
+> MY_DIR                       Hierarchical        Loc /Processing core/(X=149,860 mm, Y=71,120 mm)
+> MY_DIR                       Global              Loc /Motor drivers/(X=170,180 mm, Y=43,180 mm)
+> MY_EN                        Hierarchical        Loc /Processing core/(X=149,860 mm, Y=73,660 mm)
+> MY_EN                        Global              Loc /Motor drivers/(X=170,180 mm, Y=35,560 mm)
+> MY_STEP                      Hierarchical        Loc /Processing core/(X=149,860 mm, Y=68,580 mm)
+> MY_STEP                      Global              Loc /Motor drivers/(X=170,180 mm, Y=45,720 mm)
+> MZ_DIR                       Hierarchical        Loc /Processing core/(X=33,020 mm, Y=33,020 mm)
+> MZ_DIR                       Global              Loc /Motor drivers/(X=27,940 mm, Y=124,460 mm)
+> MZ_EN                        Hierarchical        Loc /Processing core/(X=33,020 mm, Y=35,560 mm)
+> MZ_EN                        Global              Loc /Motor drivers/(X=27,940 mm, Y=116,840 mm)
+> MZ_STEP                      Hierarchical        Loc /Processing core/(X=149,860 mm, Y=76,200 mm)
+> MZ_STEP                      Global              Loc /Motor drivers/(X=27,940 mm, Y=127,000 mm)
+> Opto_X                       Hierarchical        Loc /Processing core/(X=33,020 mm, Y=99,060 mm)
+> Opto_X                       Global              Loc /EndStop/(X=25,400 mm, Y=43,180 mm)
+> Opto_Y                       Hierarchical        Loc /Processing core/(X=33,020 mm, Y=101,600 mm)
+> Opto_Y                       Global              Loc /EndStop/(X=80,010 mm, Y=43,180 mm)
+> Opto_Z                       Hierarchical        Loc /Processing core/(X=33,020 mm, Y=104,140 mm)
+> Opto_Z                       Global              Loc /EndStop/(X=134,620 mm, Y=43,180 mm)
+> PWM_FAN                      Hierarchical        Loc /Processing core/(X=33,020 mm, Y=91,440 mm)
+> PWM_FAN                      Global              Loc /Temperature regulation/(X=82,550 mm, Y=110,490 mm)
+> Thermocouple                 Hierarchical        Loc /Processing core/(X=33,020 mm, Y=71,120 mm)
+> Thermocouple                 Global              Loc /Temperature regulation/(X=199,390 mm, Y=107,950 mm)
+#Konec oznak
+
+#Konec spiska
